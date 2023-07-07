@@ -60,7 +60,7 @@ graph LR
     graph TB
     A
     ```
-    ```Mermaid
+    ```mermaid
     graph TB
     A
     ```
@@ -69,7 +69,7 @@ graph LR
     graph TB
     A["こんにちは"]
     ```
-    ```Mermaid
+    ```mermaid
     graph TB
     A["こんにちは"]
     ```
@@ -80,7 +80,7 @@ graph LR
 graph TB
 A["こんにちは"]
 ```
-```Mermaid
+```mermaid
 graph TB
 A["こんにちは"]
 ```
@@ -90,7 +90,7 @@ A["こんにちは"]
 graph TB
 A("こんにちは")
 ```
-```Mermaid
+```mermaid
 graph TB
 A("こんにちは")
 ```
