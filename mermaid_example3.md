@@ -100,7 +100,7 @@ A("こんにちは")
 graph TB
 A(("こんにちは"))
 ```
-```Mermaid
+```mermaid
 graph TB
 A(("こんにちは"))
 ```
